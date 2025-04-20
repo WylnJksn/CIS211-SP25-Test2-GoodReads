@@ -8,12 +8,15 @@
     --color-btn-wtr-base: #3f8363;
     --color-btn-wtr-hover: #409970;
 
-    
-
 }
 
 * {
     margin:0;
     padding:0;
     box-sizing: border-box;
+}
+
+body {
+    background-color: var(--color-bg-body);
+    
 }
