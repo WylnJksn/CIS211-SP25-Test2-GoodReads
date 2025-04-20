@@ -1,12 +1,24 @@
 :root {
     --color-bg-nav: #f4f1ea;
     --color-bg-body: #fff;
-    --color-text: #1e1915;
     --color-bg-card: #faf8f6;
     --color-bg-footer: #f4f1ea;
 
+    --color-text-body-light: #4f4f4d;
+    --color-text-body-standard: #1e1915;
+    --color-text-disabled: #8e8e97;
+
     --color-btn-wtr-base: #3f8363;
     --color-btn-wtr-hover: #409970;
+
+    --color-bg-rating-star-base: #e87400;
+    --color-bg-rating-star-empty: #c2c7cc;
+    --color-bg-rating-star-border: #8e8e97;
+
+    --color-input-border: #dcd6cc;
+    --color-input-bg: #fff;
+
+
 
 }
 
@@ -18,5 +30,5 @@
 
 body {
     background-color: var(--color-bg-body);
-    
+
 }
