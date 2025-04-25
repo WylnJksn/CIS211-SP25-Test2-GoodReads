@@ -32,3 +32,12 @@ body {
     background-color: var(--color-bg-body);
 
 }
+img {
+    max-width: 100%;
+}
+.wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+
+    outline: 1px solid rebeccapurple;
+}
